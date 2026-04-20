@@ -1,3 +1,0 @@
-# TRUSTDROP
-
-Projet de livraison 
